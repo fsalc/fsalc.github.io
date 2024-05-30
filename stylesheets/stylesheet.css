@@ -26,7 +26,7 @@ html {
 }
 
 body {
-    max-width: 33%;
+    max-width: 66%;
     margin: 0;
     padding: 5%;
     font-family: 'Linux Libertine', serif;
@@ -55,6 +55,15 @@ img {
     vertical-align: top;
 }
 
+li {
+    margin: 10px 0;
+}
+
 .orcid {
     font-family: 'Linux Biolinum', sans-serif;
+}
+
+.sc {
+    font-style: normal;
+    font-variant: small-caps;
 }
